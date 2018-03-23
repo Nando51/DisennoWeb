@@ -6,10 +6,10 @@
   </head>
   <body>
     <h1> XPS TAKE AWAY </h1>
-    <a name="pr"></a> <img src="../imagenes/imag2.jpg" style="width: 296px; height: 223px;">
+    <a name="pr"></a> <img src="imagenes/imag2.jpg" style="width: 296px; height: 223px;">
     <br>
     <h1> Fernando Coloma Pascual </h1>
-    <img src="../imagenes/imag1.jpg" style="width: 322px; height: 242px;"> <br>
+    <img src="imagenes/imag1.jpg" style="width: 322px; height: 242px;"> <br>
     <a href="mailto:f.coloma@ua.es">E-MAIL DE CONTACTO</a>
     <h1> ¿QUÉ ES LO QUE HACEMOS? </h1>
     <p> En nuestra empresa realizamos todo tipo de análisis superficiales sobre
@@ -17,8 +17,7 @@
       Espectroscopía IR </p>
     <strong>ENLACES</strong> <br>
     <br>
-    <a href="https://github.com/Nando51/DisennoWeb/">Ir a mi
-      repositorio</a> <br>
+    <a href="https://github.com/Nando51/DisennoWeb/">Ir a mi repositorio</a> <br>
     <a href="https://rawgit.com/Nando51/DisennoWeb/master/NuestrosServicios.html">Nuestros
       servicios</a> <br>
     <a href="https://rawgit.com/Nando51/DisennoWeb/master/index.html">INDEX</a>
